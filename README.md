@@ -2,7 +2,7 @@
 Extra Credit Assignment for Enterprise Software Engineering
 
 In this assignment, I created an in-memory key-value database in C++. This was done using
-a database class which contained a map of the keys (which are strings) and the values (ints).
+a database class which contained a map to store the data
 
 # Walkthrough of Functions
 **Database()** -> a Database constructor which simply defines the transaction to be inactive.
