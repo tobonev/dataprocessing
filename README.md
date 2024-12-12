@@ -29,7 +29,7 @@ transaction active, we clear the tempData map as we are not using any of these c
 and end the transaction by setting the transactionActive boolean to false.
 
 # How to Run Code
-The code should simply be able to be ran by debugging the program, and the main utilizes the example found in the assignment
+The code should simply be able to be ran by debugging the program, with the main utilizing the example found in the assignment
 document to test the functionality. There are various print statements which appear on the terminal and confirm that the output
 matches the example output from the assignment document.
 
